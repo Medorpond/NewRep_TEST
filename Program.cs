@@ -7,6 +7,7 @@
             Console.ReadKey();
             Console.WriteLine("HeLLo WorLD!");
             Console.WriteLine("Hello Github");
+            Console.WriteLine("헬로 월드")
         }
     }
 }
